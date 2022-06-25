@@ -1,6 +1,6 @@
 # Welcome to Thread the Needle!
 
-A project that returns the middle characters of any word!
+A project that returns the middle characters of a word!
 
 # Rules
 
