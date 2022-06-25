@@ -4,13 +4,14 @@ A project that returns the middle characters of any word!
 
 # Rules
 
-**If the word is EVEN then the 2 middle characters are returned.**
+If the word is **EVEN** then the 2 middle characters are returned.
 
-**If the word if ODD then the character in the middle is returned.**
+If the word if **ODD** then the character in the middle is returned.
 
-**Simple as that!**
+### Simple as that!
 
-# Get Started
+
+# Getting Started
 
 - Clone the repo
 
@@ -18,8 +19,8 @@ A project that returns the middle characters of any word!
 ```
 npm i
 ``` 
-## Start application and server
+## Start application
 ```
 npm start
 ```
-# Now you can have some fun!
+### Now you can have some fun!
